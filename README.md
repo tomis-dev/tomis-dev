@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello there! 👋
+
+```
+{
+  "firstName": "Tomi",
+  "lastName": "Saario",
+  "age": 30
+}
+```
 
 <!--
 **tomis-dev/tomis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
