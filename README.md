@@ -1,24 +1,6 @@
-## Hello there! 👋
+## Hello there! 
+My name is Tomi Saario, here you can follow my course projects.
 
-```
-{
-  "firstName": "Tomi",
-  "lastName": "Saario",
-  "age": 30
-}
-```
-
-<!--
-**tomis-dev/tomis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying in LAB University of Applied Sciences
+  
+- 🌱 I’m currently learning IoT and networking
